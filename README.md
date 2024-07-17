@@ -12,8 +12,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skeletoni97&show_icons=true&theme=radical) 
-
 ![](https://komarev.com/ghpvc/?username=your-github-skeletoni97)
 
